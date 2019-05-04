@@ -1,5 +1,16 @@
 *.o
+*.zip
 **/html
 **/latex
 **/build
+
+#VS
 **/.vscode
+**/.vs
+**/Debug
+**/Release
+**/Libraries
+*.vcxproj
+*.filters
+*.user
+*.sln

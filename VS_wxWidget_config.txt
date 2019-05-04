@@ -1,0 +1,9 @@
+// Include
+
+C:\Users\asus\wxWidgets-3.0.4\include\msvc
+
+C:\Users\asus\wxWidgets-3.0.4\include\
+
+
+// Library
+C:\Users\asus\wxWidgets-3.0.4\lib\vc_lib
